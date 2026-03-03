@@ -584,7 +584,7 @@ audio {
    width: 500px;
   height: 300px;
   position: absolute;
-  background-image: url(her/smiling.jpg);
+  background-image: url(her/smilingcharmtb.jpg);
   background-position: center;
   background-size: cover;
   border: 2px dashed #880044;
@@ -884,3 +884,4 @@ audio {
     opacity: 0.4;
 
 }
+
