@@ -281,7 +281,7 @@ audio {
   }
   to {
     width: 17ch;
-  } /* adjust to your text length */
+  } 
 }
 
 @keyframes blink {
@@ -884,4 +884,5 @@ audio {
     opacity: 0.4;
 
 }
+
 
